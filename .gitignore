@@ -124,3 +124,4 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/macos,node,visualstudiocode
+db
