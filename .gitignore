@@ -130,3 +130,4 @@ typings/
 db/*
 db/diagnostic.data
 db/journal
+db
