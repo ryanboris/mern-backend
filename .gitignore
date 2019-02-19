@@ -68,6 +68,7 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+db/
 
 # TypeScript v1 declaration files
 typings/
@@ -124,4 +125,4 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/macos,node,visualstudiocode
-db
+
