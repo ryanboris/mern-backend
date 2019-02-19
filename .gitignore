@@ -126,3 +126,7 @@ typings/
 
 # End of https://www.gitignore.io/api/macos,node,visualstudiocode
 
+/db/*
+db/*
+db/diagnostic.data
+db/journal
